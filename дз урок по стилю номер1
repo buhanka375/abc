@@ -1,0 +1,127 @@
+<html>
+<style>
+body{font-family: sans-serif;
+background-color: rgb(231, 104, 186);
+}
+
+header{
+    background-color:rgb(103, 4, 103);
+}
+
+h1{text-align: center;
+    font-size: 40px;
+    color:rgb(223, 146, 223);
+}
+
+table{
+    background-color: rgb(140, 195, 238);
+    border-collapse: collapse;
+    font-size: 15px;
+    text-align: center;
+   border: 1px solid rgb(54, 2, 54);
+   color:rgb(33, 32, 25);
+   
+   }
+   th{
+    font-size: 40px;
+   }
+   
+   td{
+    font-size: 20px;
+   }
+</style>
+    <body>
+        <header>
+    <h1><img src="https://pngimg.com/uploads/paw/paw_PNG46.png "width="100px";>10 популярних порід собак<img src="https://pngimg.com/uploads/paw/paw_PNG46.png "width="100px";></h1>
+        </header>
+        <table>
+            <tr>
+<th>Йоркширський тер'єр</th>
+            </tr>
+            <tr>
+      <td>  <img src="https://kitipes.com.ua/upload/medialibrary/309/e770oxhk2jb0w5v56wmkqjfg3xxyo4uq.jpeg"width="400px"></td>
+            </tr>
+            <tr>
+        <td>Висота в загривку в середньому до 20 см, може проживати в маленькій квартирі, характер веселий, доброзичливий.</td>
+            </tr>
+            <tr>
+<th>Золотистий ретривер</th>
+</tr>
+<tr>
+    <td>
+        <img src="https://lapkins.ru/upload/iblock/1ed/1ed2f3d6d4eeb0bea9e6935aad1fb13b.jpg"width="400px">
+    </td>
+</tr>
+<tr>
+<td>Привертає увагу красивим золотистим відтінком шерсті. Розумний, терплячий, любить маленьких дітей. Чудовий компаньйон для людей з обмеженими фізичними можливостями.</td>
+</tr>
+<tr>
+<th>Померанський шпіц</th>
+<tr>
+<td>
+    <img src="https://th.bing.com/th/id/R.681d730d4e1a54c83f68468b7091f56f?rik=jXT7171khNSBDw&riu=http%3a%2f%2ffarm4.staticflickr.com%2f3081%2f2286086833_fe473314ab_b.jpg&ehk=rpvDHvtnULLN7htc5Q3o1qsbRfsllgNGH%2b8L0z6BoP0%3d&risl=&pid=ImgRaw&r=0"width="400px">
+</td>
+</tr>
+</tr>
+<tr>
+<td>Вражає своєю милою зовнішністю та гарним забарвленням шерсті. Любить проводити час на руках у заводчика чи господаря, лагідний.</td>
+</tr>
+<tr>
+<th>Чихуахуа</th>
+</tr>
+<tr>
+    <td><img src="https://i.pinimg.com/736x/91/c3/a5/91c3a5e33446fd1c1aae22485e303e36--funny-pets-funny-animals.jpg"width="400px"></td>
+</tr>
+<tr>
+<td>Не вимагає значного особистого простору через свій маленький розмір. Дуже прив'язується до одного-двох членів сім'ї, добре ладнає з дітьми.</td>
+</tr>
+<tr>
+<th>Бігль</th>
+</tr>
+<tr>
+<tr>
+    <td><img src="https://vkazivka.com/wp-content/uploads/2018/08/poroda_sobak_bigl:_opisanie_i_kharakter_porody,_nedostatki_i_dostoinstva,_ukhod_i_soderzhanie_v_kvartire135.jpg"width="400px"></td>
+</tr>
+<td>Енергійний та доброзичливий бігль може стати ідеальним компаньйоном для сімей, у яких є активні діти.</td>
+</tr>
+<tr>
+<th>Мальтійська болонка</th>
+</tr>
+<td><img src="https://petsua.net/imgs/board/3/353-1.jpg"width="400px"></td>
+<tr>
+<td>Особливість болонки в тому, що у неї досить м'яка шерсть. Болонки спокійні та добродушні.</td>
+</tr>
+<tr>
+<th>Англійський бульдог</th>
+</tr>
+<tr><td><img src="https://www.pupvine.com/wp-content/uploads/2022/10/cropped-english-bulldog-in-grass-1.jpg"width="400px"></td></tr>
+<tr> 
+<td>Цей спокійний собака, який нікуди не спішить, — чудовий компаньйон. Дуже прив'язується до сім'ї, у якій живе. Може бути схильним виявляти впертість, тому від господаря вимагається терпіння в дресируванні.</td>
+</tr>
+<tr>
+<th>Доберман</th>
+<tr>
+<tr><td><img src="https://i.pinimg.com/736x/3f/9d/57/3f9d5783836a46e09c6bf34cbc42a9a3.jpg"width="400px"></td></tr>
+</tr>
+<td>Чудовий сторожовий і службовий собака. Має витончену та легку будову тіла, швидко запам'ятовує команди, слухняний, дуже активний.</td>
+</tr>
+<tr>
+<th>Коргі</th>
+<tr>
+<td><img src="https://th.bing.com/th/id/R.fb3483b89a261d5c8d794e8bfdd091ae?rik=sdeTcRczxE%2bi%2bQ&pid=ImgRaw&r=0"width="400px"></td>
+</tr>
+<tr>
+<td>Найменший представник вівчарок. Такий улюбленець може бігати з господарем вранці. Розумний, доброзичливий.</td>
+</tr>
+</tr>
+<tr>
+<th>Стаффордширський тер'єр</th>
+</tr>
+<tr><td><img src="https://cdn.home-animal.org.ua/images/11/11-1e3d8a9712d2daf0e61df0fff73279d5.jpg"width="400px"></td></tr>
+<tr>
+<td>Потребує постійного контролю та дресирування. Чудовий охоронець із високим рівнем активності.</td>
+</tr>
+        </table>
+
+    </body>
+</html>
